@@ -45,7 +45,7 @@ You'll need to obtain a Google Gemini API key from the [Google AI Studio](https:
 
 1. Clone the repository
    ```
-   git clone <repository-url>
+   git clone https://github.com/IvanAmador/vercel-ai-docs-mcp.git
    cd vercel-ai-docs-mcp-agent
    ```
 
